@@ -3,7 +3,6 @@
 import { useState } from "react"
 
 export default function ProfilePage() {
-  const [isEditing, setIsEditing] = useState(false)
 
 
   return (
