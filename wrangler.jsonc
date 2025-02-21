@@ -12,7 +12,14 @@
 	"pages_build_output_dir": ".vercel/output/static",
 	"observability": {
 		"enabled": true
-	}
+	},
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "url-short-auth-db",
+      "database_id": "917412a5-2385-42fc-a9c9-e279a4245fca"
+    }
+  ]
   /**
    * Smart Placement
    * Docs: https://developers.cloudflare.com/workers/configuration/smart-placement/#smart-placement
