@@ -15,9 +15,9 @@
 	},
   "d1_databases": [
     {
-      "binding": "DB",
-      "database_name": "url-short-auth-db",
-      "database_id": "917412a5-2385-42fc-a9c9-e279a4245fca"
+      "binding": "<AUTHDB_BINDING>",
+      "database_name": "<DBAUTH_NAME>",
+      "database_id": "<DBAUTH_ID>"
     }
   ]
   /**
